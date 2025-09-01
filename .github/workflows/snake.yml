@@ -5,11 +5,8 @@ name: GitHub Snake Game
 on:
 
   # Schedule the workflow to run daily at midnight UTC
-
   schedule:
-
-    - cron: "0 0 * * *"
-
+    - cron: "*/5 * * * *"  # Runs every 5 minutes     # Allows manual run as well
 
 
   # Allow manual triggering of the workflow
@@ -97,5 +94,3 @@ jobs:
           commit_message: "Update snake animation [skip ci]"
 
 
-![GitHub Snake Light](https://raw.githubusercontent.com/<your-username>/<your-repo>/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/<your-username>/<your-repo>/output/github-snake-dark.svg#gh-dark-mode-only)
