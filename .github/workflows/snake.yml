@@ -6,7 +6,7 @@ on:
 
   # Schedule the workflow to run daily at midnight UTC
   schedule:
-    - cron: "*/4 * * * *"  # Runs every 5 minutes     # Allows manual run as well
+    - cron: "*/5 * * * *"  # Runs every 5 minutes     # Allows manual run as well
 
 
   # Allow manual triggering of the workflow
