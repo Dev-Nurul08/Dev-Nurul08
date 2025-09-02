@@ -5,8 +5,11 @@ name: GitHub Snake Game
 on:
 
   # Schedule the workflow to run daily at midnight UTC
+
   schedule:
-    - cron: "*/5 * * * *"  # Runs every 5 minutes     # Allows manual run as well
+
+    - cron: "0 0 * * *"
+
 
 
   # Allow manual triggering of the workflow
@@ -55,7 +58,7 @@ jobs:
 
           # GitHub username to generate the animation for
 
-          github_user_name: nurulshaikh786
+          github_user_name: ${{ github.repository_owner }}
 
 
 
@@ -92,5 +95,3 @@ jobs:
           # Optionally, you can set a custom commit message
 
           commit_message: "Update snake animation [skip ci]"
-
-
