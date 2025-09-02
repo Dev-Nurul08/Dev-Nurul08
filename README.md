@@ -96,6 +96,11 @@
 <div align="center"> 
   ![snake gif](https://github.com/dev-nurul08/dev-nurul08/blob/output/github-snake-dark.svg)
 </div>
+<!-- Visit Counter -->
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=dev-nurul08&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>
 
 ## 🧑‍💻 Treat Me Like a Developer
 **Ship fast, learn more — push code, then soar.**
