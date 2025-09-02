@@ -13,8 +13,8 @@
 
 ## 📈 GitHub Profile Overview
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dev-Shivam-05&color=blueviolet&style=flat-square)  
-![Followers](https://img.shields.io/github/followers/Dev-Shivam-05?style=social)  ![Stars](https://img.shields.io/github/stars/Dev-Shivam-05?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=dev-nurul08&color=blueviolet&style=flat-square)  
+![Followers](https://img.shields.io/github/followers/dev-nurul08?style=social)  ![Stars](https://img.shields.io/github/stars/dev-nurul08?style=social)
 
 ---
 
@@ -37,20 +37,22 @@
 | <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" style="height:20px;border-radius:20%;margin:4px" /> | <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" style="height:20px;border-radius:20%;margin:4px" /> | <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" style="height:20px;border-radius:20%;margin:4px" /> |
 | <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" style="height:20px;border-radius:20%;margin:4px" /> |  |  |
 | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" style="height:20px;border-radius:20%;margin:4px" /> |  |  |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" style="height:20px;border-radius:20%;margin:4px" /> |  |  |
-| <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" style="height:20px;border-radius:20%;margin:4px" /> |  |  |
+|<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" style="height:20px;border-radius:20%;margin:4px" />   |    |    |
+|<img src="https://img.shields.io/badge/OracleSQL-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle SQL" style="height:20px;border-radius:20%;margin:4px" /> |   |
+
+
 
 ### ⚡ **Specialization**
 ✔ Mastered **Data Structures & Algorithms (DSA) with C++**
 
 ## 📊 GitHub Skill Heatmap
 
-[![Shivam’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-nurul08&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nurul’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-nurul08&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 # 🗺 Skills Heatmap & GitHub Insights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Shivam-05&show_icons=true&theme=radical&hide_border=true) | ![Skill Heatmap](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Shivam-05&layout=compact&theme=radical&hide_border=true) |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-nurul08&show_icons=true&theme=radical&hide_border=true) | ![Skill Heatmap](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nurul08&layout=compact&theme=radical&hide_border=true) |
 |-----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
 
 ---
@@ -58,7 +60,7 @@
 
 ## 🏆 Trophies — Bright Showcase
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Dev-Shivam-05&theme=radical&margin-w=20&margin-h=20&row=2)
+![Trophies](https://github-profile-trophy.vercel.app/?username=dev-nurul08&theme=radical&margin-w=20&margin-h=20&row=2)
 
 ---
 
