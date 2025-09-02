@@ -93,7 +93,9 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
+<div align="center"> 
+  ![snake gif](https://github.com/dev-nurul08/dev-nurul08/blob/output/github-snake-dark.svg)
+</div>
 
 ## 🧑‍💻 Treat Me Like a Developer
 **Ship fast, learn more — push code, then soar.**
