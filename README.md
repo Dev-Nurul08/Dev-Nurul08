@@ -93,7 +93,9 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+<!--
 <div align="center"> 
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
   ![snake gif](https://github.com/dev-nurul08/dev-nurul08/blob/output/github-snake-dark.svg)
 </div>
 <!-- Visit Counter -->
