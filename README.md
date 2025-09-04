@@ -41,7 +41,7 @@
 
 ## 📊 GitHub Skill Heatmap
 
-[![Nurul’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-Nurul08&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nurul’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-Nurul08&theme=high-contrast&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 # 🗺 Skills Heatmap & GitHub Insights
