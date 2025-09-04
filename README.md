@@ -1,9 +1,3 @@
-<!--
-  Profile README for: Shivam Bhadoriya (Dev-Shivam-05)
-  - This README is fully self-contained.
-  - Optional automation below can auto-regenerate and randomize sections and quotes.
--->
-
 # 👋 Hi, I’m **Nurul shaikh**
 
 🎓 **Deploma in Computer Engineering  Student** | 🌱 Aspiring **Full-Stack Developer**  
@@ -13,8 +7,8 @@
 
 ## 📈 GitHub Profile Overview
 
-![Profile Views](https://komarev.com/ghpvc/?username=dev-nurul08&color=blueviolet&style=flat-square)  
-![Followers](https://img.shields.io/github/followers/dev-nurul08?style=social)  ![Stars](https://img.shields.io/github/stars/dev-nurul08?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Dev-Nurul08&color=blueviolet&style=flat-square)  
+![Followers](https://img.shields.io/github/followers/Dev-Nurul08?style=social)  ![Stars](https://img.shields.io/github/stars/Dev-Nurul08?style=social)
 
 ---
 
@@ -47,29 +41,29 @@
 
 ## 📊 GitHub Skill Heatmap
 
-[![Nurul’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-nurul08&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nurul’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-Nurul08&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 # 🗺 Skills Heatmap & GitHub Insights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-nurul08&show_icons=true&theme=radical&hide_border=true) | ![Skill Heatmap](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nurul08&layout=compact&theme=radical&hide_border=true) |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Nurul08&show_icons=true&theme=radical&hide_border=true) | ![Skill Heatmap](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Nurul08&layout=compact&theme=radical&hide_border=true) |
 |-----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
 
 ---
 # 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=dev-nurul08&theme=radical&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Dev-Nurul08&theme=radical&hide_border=true)<br/>
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dev-nurul08&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Dev-Nurul08&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dev-nurul08&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Dev-Nurul08&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dev-nurul08&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Dev-Nurul08&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -77,13 +71,13 @@
 
 ## 🏆 Trophies — Bright Showcase
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=dev-nurul08&theme=radical&margin-w=20&margin-h=20&row=2)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Dev-Nurul08&theme=radical&margin-w=20&margin-h=20&row=2)
 
 ---
 
 ## 🔗 Connect With Me
 
-| [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/dev-nurul08) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-bhadoriya-b82792324/) | [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shaikhnurul8200@gmail.com) |
+| [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Dev-Nurul08) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-bhadoriya-b82792324/) | [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shaikhnurul8200@gmail.com) |
 |---|---|---|
 | [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://www.behance.net/shivambhadoriya2/) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_fr.nurull/) | [![PhonePe](https://img.shields.io/badge/PhonePe-5F259F?style=flat&logo=phonepe&logoColor=white)](https://phonepe.com/pay/9106988376@ybl) |
 
@@ -96,12 +90,12 @@
 <!--
 <div align="center"> 
   ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
-  ![snake gif](https://github.com/dev-nurul08/dev-nurul08/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/Dev-Nurul09/Dev-Nurul09/blob/output/github-snake-dark.svg)
 </div>
 <!-- Visit Counter -->
 <div align="center">
   
-  [![](https://visitcount.itsvg.in/api?id=dev-nurul08&icon=10&color=6)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=Dev-Nurul08&icon=10&color=6)](https://visitcount.itsvg.in)
 </div>
 
 ## 🧑‍💻 Treat Me Like a Developer
