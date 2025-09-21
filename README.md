@@ -52,7 +52,7 @@
 ---
 # 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=Dev-Nurul08&theme=radical&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Dev-Nurul08&theme=dark&hide_border=false)<br/>
 
 
 ---
