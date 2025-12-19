@@ -98,6 +98,11 @@
   [![](https://visitcount.itsvg.in/api?id=Dev-Nurul08&icon=10&color=6)](https://visitcount.itsvg.in)
 </div>
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Dev-Nurul08/Dev-Nurul08/output/github-contribution-grid-snake.svg)
+
+
 ## 🧑‍💻 Treat Me Like a Developer
 **Ship fast, learn more — push code, then soar.**
 
