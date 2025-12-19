@@ -23,7 +23,7 @@
 
 ## 👋 About Me
 
-```txt
+
 👨‍🎓 Diploma in Computer Engineering
 🏫 Red & White Multimedia Education
 💻 Started with C → HTML → CSS → JavaScript
