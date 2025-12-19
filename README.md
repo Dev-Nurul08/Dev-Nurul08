@@ -1,109 +1,144 @@
-# 👋 Hi, I’m **Nurul shaikh**
+<!-- =====================================================
+  GitHub Profile README
+  Name    : Nurul Shaikh
+  GitHub  : Dev-Nurul08
+  WakaTime: Dev_Nurul08
+  Theme   : Dark × Neon Cyan × Violet
+===================================================== -->
 
-🎓 **Deploma in Computer Engineering  Student** | 🌱 Aspiring **Full-Stack Developer**  
-📍 Surat, India — *Currently focused on Frontend; will move to Backend after a few months of frontend work.*
-
----
-
-## 📈 GitHub Profile Overview
-
-![Profile Views](https://komarev.com/ghpvc/?username=Dev-Nurul08&color=blueviolet&style=flat-square)  
-![Followers](https://img.shields.io/github/followers/Dev-Nurul08?style=social)  ![Stars](https://img.shields.io/github/stars/Dev-Nurul08?style=social)
-
----
-
-<!-- RANDOMIZED SECTIONS (if you run the generator, this area will change order on each update) -->
-
-## 🔥 About Me
-
-- 🎯 Focused on mastering **Full-Stack Development**  
-- 💻 Specializing in **Responsive UIs, API design & backend logic**  
-- 📚 **Currently:** Frontend (Bootstrap → JavaScript → advanced frontend)  
-- 🔜 **Next:** Backend (Node.js, Express, MongoDB) after frontend foundations are solid  
-- ✨ Fun fact: *I use Illustrator & Canvas for mockups and Photoshop for finishing touches.*
-# 🛠️ Tech Stack
-
-| Languages & Frameworks | Design Tools | Deployment / Others |
-|------------------------|--------------|---------------------|
-| <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" style="height:20px;border-radius:20%;margin:4px" /> | <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop" style="height:20px;border-radius:20%;margin:4px" /> | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="height:20px;border-radius:20%;margin:4px" /> |
-| <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" style="height:20px;border-radius:20%;margin:4px" /> | <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" style="height:20px;border-radius:20%;margin:4px" /> | <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" style="height:20px;border-radius:20%;margin:4px" /> |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="height:20px;border-radius:20%;margin:4px" /> | <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Illustrator" style="height:20px;border-radius:20%;margin:4px" /> | <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" style="height:20px;border-radius:20%;margin:4px" /> |
-| <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" style="height:20px;border-radius:20%;margin:4px" /> | <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" style="height:20px;border-radius:20%;margin:4px" /> | <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" style="height:20px;border-radius:20%;margin:4px" /> |
-| <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" style="height:20px;border-radius:20%;margin:4px" /> |  |  |
-| <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" style="height:20px;border-radius:20%;margin:4px" /> |  |  |
-|<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" style="height:20px;border-radius:20%;margin:4px" />   |    |    |
-|<img src="https://img.shields.io/badge/OracleSQL-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle SQL" style="height:20px;border-radius:20%;margin:4px" /> |   |
-
-
-
-### ⚡ **Specialization**
-✔ Mastered **Data Structures & Algorithms (DSA) with C++**
-
-## 📊 GitHub Skill Heatmap
-
-[![Nurul’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-Nurul08&theme=high-contrast&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-# 🗺 Skills Heatmap & GitHub Insights
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Nurul08&show_icons=true&theme=radical&hide_border=true) | ![Skill Heatmap](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Nurul08&layout=compact&theme=radical&hide_border=true) |
-|-----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
-
----
-# 📊 GitHub Stats:
-
-![](https://nirzak-streak-stats.vercel.app/?user=Dev-Nurul08&theme=radical&hide_border=false)<br/>
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Dev-Nurul08&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dev-Nurul08&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Dev-Nurul08&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## 🏆 Trophies — Bright Showcase
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Dev-Nurul08&theme=radical&margin-w=20&margin-h=20&row=2)
-
----
-
-## 🔗 Connect With Me
-
-| [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Dev-Nurul08) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-bhadoriya-b82792324/) | [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shaikhnurul8200@gmail.com) |
-|---|---|---|
-| [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://www.behance.net/shivambhadoriya2/) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_fr.nurull/) | [![PhonePe](https://img.shields.io/badge/PhonePe-5F259F?style=flat&logo=phonepe&logoColor=white)](https://phonepe.com/pay/9106988376@ybl) |
-
----
-
-## Random Dev Quote:
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-<!--
-<div align="center"> 
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
-  ![snake gif](https://github.com/Dev-Nurul09/Dev-Nurul09/blob/output/github-snake-dark.svg)
-</div>
-<!-- Visit Counter -->
 <div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=Dev-Nurul08&icon=10&color=6)](https://visitcount.itsvg.in)
+
+<img
+  src="https://capsule-render.vercel.app/api?type=venom&height=260&color=gradient&text=Nurul%20Shaikh&desc=Full%20Stack%20Developer%20in%20Progress&fontSize=65&animation=twinkling&fontAlignY=38&descAlignY=62"
+  width="100%"
+/>
+
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=C+Programmer+%7C+Frontend+Developer;JavaScript+Learner+%7C+Backend+Explorer;Building+Projects+Every+Day;Consistency+Over+Motivation"
+/>
+
 </div>
 
-## 🐍 Contribution Snake
+---
 
-![Snake animation](https://raw.githubusercontent.com/Dev-Nurul08/Dev-Nurul08/output/github-contribution-grid-snake.svg)
+## 👋 About Me
 
+```txt
+👨‍🎓 Diploma in Computer Engineering
+🏫 Red & White Multimedia Education
+💻 Started with C → HTML → CSS → JavaScript
+🚀 Currently learning Full Stack Development
+🎯 Goal: Industry-ready Full Stack Developer
+I believe real learning happens when you build, break, and rebuild.
 
-## 🧑‍💻 Treat Me Like a Developer
-**Ship fast, learn more — push code, then soar.**
+🛠️ Technology Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,bootstrap,git,github,vscode,mysql&perline=5"/> </div>
+🚀 What I Can Build
+✔ Responsive websites
 
-*Last updated: <!-- generated timestamp (automation can update this) -->*
+✔ CRUD based applications
+
+✔ Admin dashboards
+
+✔ API-based projects
+
+✔ School / Student management systems
+
+📂 Featured Projects
+🏫 School Management System
+Tech: HTML, CSS, JavaScript
+Key Learnings:
+
+Form validation
+
+DOM manipulation
+
+Multi-page UI structure
+
+🔗 Live Demo | Source Code
+
+🦠 COVID-19 Tracker
+Tech: JavaScript, Public API
+Key Learnings:
+
+Fetch API
+
+Async / Await
+
+Dynamic UI updates
+
+🔗 Live Demo | Source Code
+
+❌ Rejected but Valuable Experience
+👟 Shoe Store Website
+Client rejected final design
+
+Learned importance of clear requirements
+
+Improved UI planning & UX thinking
+
+Failure taught me more than success.
+
+🧠 How I Solve Problems
+Understand the requirement clearly
+
+Break the problem into small tasks
+
+Build a basic working solution
+
+Improve UI and logic step-by-step
+
+Refactor and optimize code
+
+🗺️ Learning Roadmap
+✅ C Programming
+
+✅ HTML & CSS
+
+✅ JavaScript Basics
+
+🔄 Backend Fundamentals
+
+🔜 Full Stack Projects
+
+📓 Weekly Dev Log
+This Week
+
+Improved GitHub automation (snake, stats)
+
+Practiced JavaScript logic
+
+Worked on real projects
+
+Next Goals
+
+Backend basics
+
+Build a CRUD application
+
+📊 GitHub Stats
+<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dev-Nurul08&show_icons=true&theme=tokyonight&hide_border=true"/> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Nurul08&theme=tokyonight&hide_border=true"/> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Nurul08&layout=compact&theme=tokyonight&hide_border=true"/> </div>
+⏱️ Weekly Coding Activity (WakaTime)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dev_Nurul08&theme=tokyonight&hide_border=true" />
+
+🐍 Contribution Snake
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Nurul08/Dev-Nurul08/output/github-contribution-grid-snake.svg"> <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Dev-Nurul08/Dev-Nurul08/output/github-contribution-grid-snake.svg"> </picture>
+📈 Contribution Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Nurul08&theme=tokyo-night&hide_border=true" />
+
+🟢 Live Status
+🧠 Learning Full Stack Development
+
+🛠 Building real-world projects
+
+🤝 Open for collaboration & internships
+
+🤝 Connect With Me
+<div align="center"> <a href="https://github.com/Dev-Nurul08"> <img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black"/> </a> <a href="mailto:yourmail@gmail.com"> <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://wakatime.com/@Dev_Nurul08"> <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white"/> </a> </div>
+💬 Developer Philosophy
+“Build daily. Fail fast. Learn forever.”
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer" />
+
+<img src="https://img.shields.io/badge/Made%20with-❤️-00F7FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Dev-Nurul08-8A2BE2?style=for-the-badge"/> </div> ```
