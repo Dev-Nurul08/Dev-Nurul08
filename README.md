@@ -62,6 +62,14 @@ I focus on daily improvement, not shortcuts.
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0d1117&section=footer"/> <img src="https://img.shields.io/badge/Built%20by-Nurul%20Shaikh-00F7FF?style=for-the-badge"/> </div> 
 
-## 🎄 GitHub Yule Log
-
-![Yule Log](./yule-log.png)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
