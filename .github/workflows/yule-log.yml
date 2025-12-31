@@ -1,37 +1,39 @@
-name: Update Yule Log
+name: generate breakout svg
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */24 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  update:
+  generate-svg:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Install GitHub CLI extension
-        run: gh extension install yourusername/gh-yule-log
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: generate SVG
+        uses: cyprieng/github-breakout@v1.0.0
+        with:
+          github_username: ${{ github.repository_owner }}
 
-      - name: Generate Yule Log
+      - name: Move generated SVGs
         run: |
-          sudo apt-get update
-          sudo apt-get install -y imagemagick
-          gh yule-log -contribs | \
-          magick -background black -fill white -font DejaVu-Sans-Mono label:@- yule-log.png
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          mkdir -p images
+          mv output/light.svg images/breakout-light.svg
+          mv output/dark.svg images/breakout-dark.svg
 
-      - name: Commit changes
+      - name: Configure git
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add yule-log.png
-          git commit -m "Update Yule Log" || exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push SVGs
+        run: |
+          git add images/breakout-light.svg images/breakout-dark.svg
+          git commit -m "chore: update breakout SVGs" || echo "No changes to commit"
           git push
