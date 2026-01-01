@@ -27,40 +27,119 @@
 
 ## 👋 About Me
 
-👨‍🎓 Diploma in Computer Engineering
+👨‍🎓 Diploma in Computer Engineering 
+
+
 🏫 Red & White Multimedia Education
+
+
 💻 C → HTML → CSS → JavaScript → Full Stack
+
+
 🎯 Goal: Become an industry-ready developer
+
+
 I focus on daily improvement, not shortcuts.
 
-<hr/>
-🛠 Tech Stack (Visual & Practical)
-💻 Programming & Markup
-<table> <tr> <td align="center" width="140"> <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="70"/><br/> <b>C</b><br/> <sub>Logic & fundamentals</sub> </td> <td align="center" width="140"> <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="70"/><br/> <b>C++</b><br/> <sub>OOP basics</sub> </td> <td align="center" width="140"> <img src="https://media.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif" width="70"/><br/> <b>HTML5</b><br/> <sub>Structure & semantics</sub> </td> <td align="center" width="140"> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="70"/><br/> <b>CSS3</b><br/> <sub>Layouts & responsiveness</sub> </td> </tr> </table>
-⚙️ JavaScript & UI
-<table> <tr> <td align="center" width="140"> <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="70"/><br/> <b>JavaScript</b><br/> <sub>DOM, APIs, logic</sub> </td> <td align="center" width="140"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="70"/><br/> <b>Bootstrap</b><br/> <sub>Grid & UI system</sub> </td> <td align="center" width="140"> <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="70"/><br/> <b>Tailwind CSS</b><br/> <sub>Utility-first styling</sub> </td> </tr> </table>
-🧰 Tools & Database
-<table> <tr> <td align="center" width="140"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="70"/><br/> <b>Git</b><br/> <sub>Version control</sub> </td> <td align="center" width="140"> <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="70"/><br/> <b>GitHub</b><br/> <sub>Collaboration</sub> </td> <td align="center" width="140"> <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="70"/><br/> <b>VS Code</b><br/> <sub>Main editor</sub> </td> <td align="center" width="140"> <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="70"/><br/> <b>MySQL</b><br/> <sub>Relational DB</sub> </td> </tr> </table> <hr/>
-🔥 Currently Working On
-<table> <tr> <td align="center" width="220"> <img src="https://media.giphy.com/media/3o7TKxOhD9V3X2d1F6/giphy.gif" width="90"/><br/> <b>Tailwind CSS</b><br/> <sub> • Responsive layouts<br/> • Clean UI systems<br/> • Modern design flow </sub> </td> <td align="center" width="220"> <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="90"/><br/> <b>Project Refinement</b><br/> <sub> • UI/UX improvement<br/> • Code refactoring<br/> • Better structure </sub> </td> </tr> </table> <hr/>
-🚀 What I’m Learning Next (Roadmap)
-<table> <tr> <td align="center" width="180"> <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="80"/><br/> <b>React</b><br/> <sub>Component-based UI</sub> </td> <td align="center" width="180"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80"/><br/> <b>Node.js</b><br/> <sub>Backend & APIs</sub> </td> <td align="center" width="180"> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80"/><br/> <b>DevOps</b><br/> <sub>Deployment & automation</sub> </td> </tr> </table> <hr/>
-📊 GitHub Stats
-<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dev-Nurul08&show_icons=true&theme=tokyonight&hide_border=true"/> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Nurul08&theme=tokyonight&hide_border=true"/> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Nurul08&layout=compact&theme=tokyonight&hide_border=true"/> </div> <hr/>
-⏱ Weekly Coding Activity (WakaTime)
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dev_Nurul08&theme=tokyonight&hide_border=true" />
 
-<hr/>
-🐍 Contribution Snake
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Nurul08/Dev-Nurul08/output/github-contribution-grid-snake.svg"> <img src="https://raw.githubusercontent.com/Dev-Nurul08/Dev-Nurul08/output/github-contribution-grid-snake.svg" alt="Contribution Snake"> </picture> <hr/>
-💬 Developer Quote (Auto-Changing)
-<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </div> <hr/>
-🤝 Connect With Me
-<div align="center"> <a href="https://github.com/Dev-Nurul08"> <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://wakatime.com/@Dev_Nurul08"> <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white"/> </a> <a href="mailto:yourmail@gmail.com"> <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div> <hr/>
-💬 Personal Rule
-“Learn deeply, build honestly, improve daily.”
+# 💻 Tech Stack:
+<!-- Tech Stack Section -->
+<h2 align="center">🚀 My Tech Stack</h2>
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0d1117&section=footer"/> <img src="https://img.shields.io/badge/Built%20by-Nurul%20Shaikh-00F7FF?style=for-the-badge"/> </div> 
+<p align="center">
+  <i>Tools, languages & technologies I work with</i>
+</p>
+
+---
+
+<!-- Tech Stack Section -->
+<h2 align="center">🚀 My Tech Stack</h2>
+
+<p align="center">
+  <i>Tools, languages & technologies I work with</i>
+</p>
+
+---
+
+### 🧠 Programming Languages
+<p align="center">
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+</p>
+
+---
+
+### 🌐 Frontend Development
+<p align="center">
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+  ![Next%20JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
+</p>
+
+---
+
+### 🎨 UI Frameworks & Styling
+<p align="center">
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+</p>
+
+---
+
+### ⚙️ Backend & Tools
+<p align="center">
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
+  ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white)
+  ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white)
+</p>
+
+---
+
+### 🗄️ Databases
+<p align="center">
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+</p>
+
+---
+
+### 🎨 Design & Creativity
+<p align="center">
+  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+</p>
+
+---
+
+<p align="center">
+  ⭐ <b>Always learning. Always building.</b> ⭐
+</p>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Dev-Nurul08&theme=graywhite&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Dev-Nurul08&theme=graywhite&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Nurul08&theme=graywhite&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Dev-Nurul08&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Dev-Nurul08&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Dev-Nurul08&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
 
 <picture>
   <source
