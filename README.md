@@ -13,18 +13,6 @@
   src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0d1117&text=Nurul%20Shaikh&fontSize=50&fontColor=ffffff"
 />
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=80&color=00F7FF&text=Full%20Stack%20Developer%20in%20Progress&fontSize=22&fontColor=0d1117"
-/>
-
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1200&color=8A2BE2&center=true&vCenter=true&width=900&lines=From+C+to+Full+Stack;Building+Real+Projects;Learning+by+Doing;Consistency+Over+Motivation"
-/>
-
-</div>
-
-<hr/>
-
 ## 👋 About Me
 
 👨‍🎓 Diploma in Computer Engineering 
@@ -43,6 +31,15 @@ I focus on daily improvement, not shortcuts.
 
 
 
+<h2>🤔🤔2025 Git Wrapped</h2>
+
+<video width="320" height="240" controls>
+  <source src="https://git-wrapped.com/profiles/Dev-Nurul08" type="video/mp4">
+</video>
+
+
+
+
 
 
 <!-- Tech Stack Section -->
@@ -57,18 +54,13 @@ I focus on daily improvement, not shortcuts.
 ### 🧠 Programming Languages
 <p align="">
   
-  <img src="https://eportfolio.utm.my/artefact/file/download.php?file=682041&view=171850&embedded=1&text=691127" width="200">
+  <img src="https://eportfolio.utm.my/artefact/file/download.php?file=682041&view=171850&embedded=1&text=691127" width="250">
 
-
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Z4c2Q3ZmlpNWJoMmFndzRjdGFuemtzNHUxenB5MWp5OTc3ZXg5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jnWAi68AxKQKLwL1Dy/giphy.gif" width="250" style="background:transparent;">
   
-  <img src="https://i.pinimg.com/originals/e9/cd/86/e9cd862edd43a52271dbafc3d906b856.gif" width="150" style="background:transparent;">
-  
-  <img src="&quot;https://static.vecteezy.com/system/resources/thumbnails/059/989/188/large/java-programming-language-3d-icon-animation-transparent-background-free-         video.jpg&quot;);" width="150" >
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZkeHIxdTR3Z2ExN3Z1bjFsYzRwN2twanVpajluYXZicGR5OHVsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width="250" >
   
  
-  
-  ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-
 
 ---
 
@@ -122,6 +114,15 @@ I focus on daily improvement, not shortcuts.
 </p>
 
 ---
+
+<details>
+  <summary>Click to see a random joke</summary>
+  <div align="center">
+
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+
+  </div>
+</details>
 
 <p align="center">
   ⭐ <b>Always learning. Always building.</b> ⭐
