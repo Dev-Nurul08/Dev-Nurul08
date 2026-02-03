@@ -446,7 +446,7 @@
         src="https://img.shields.io/badge/GitHub-6a11cb?style=for-the-badge&logo=github&logoColor=white"
       />
     </a>
-    <a href="https://www.linkedin.com/in/Nurul-Shaikh-b82792324/">
+    <a href="https://www.linkedin.com/in/nurul-shaikh-44b41838b">
       <img
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       />
