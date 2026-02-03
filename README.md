@@ -8,7 +8,7 @@
   <!-- Animated Profile Stats -->
   <div align="center">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=25&duration=3000&pause=1000&color=gradient&customColorList=0,4,4,8,30&center=true&vCenter=true&multiline=true&width=800&height=100&lines=BSc+IT+Student+%40+VidhyaDeep+University+%F0%9F%8E%93;Frontend+Ninja+%E2%9A%A1+Backend+Explorer+%F0%9F%94%8D;JavaScript+Enthusiast+%F0%9F%92%BB+DSA+Master+%F0%9F%8F%86"
+      src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=25&duration=3000&pause=1000&color=gradient&customColorList=0,4,4,8,30&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Diploma+in+Computer+Student+%40+VidhyaDeep+University+%F0%9F%8E%93;Frontend+Ninja+%E2%9A%A1+Backend+Explorer+%F0%9F%94%8D;JavaScript+Enthusiast+%F0%9F%92%BB+DSA+Master+%F0%9F%8F%86"
       alt="Typing SVG"
     />
   </div>
