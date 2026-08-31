@@ -46,16 +46,6 @@
 
   <br />
 
-  <!-- Interactive Arcade Game Suite -->
-  <h2 align="center">🎮 Play Contribution Snake (Click to Play)</h2>
-  <div align="center">
-    <a href="https://synthetixgit.vercel.app/play/Dev-Nurul08/snake">
-      <img src="https://synthetixgit.vercel.app/api/svg/game-banner?username=Dev-Nurul08&game=snake" width="100%" alt="Play Snake" />
-    </a>
-  </div>
-
-  <br />
-
   <!-- Connect & Socials -->
   <h2 align="center">🤝 Connect & Collaborate</h2>
   <div align="center">
